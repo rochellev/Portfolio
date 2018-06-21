@@ -42,3 +42,7 @@ header, nav, footer, section, article, div {
   color: #212121;
 }
 
+.header_sub_title{
+  font-weight: 200;
+  font-size: 2em;
+}
