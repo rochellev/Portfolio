@@ -50,6 +50,12 @@ header, nav, footer, section, article, div {
   font-size: 2em;
 }
 
+/*
+*
+* Main
+*
+*/
+
 .center_img{
   display: block;
   margin-left: auto;
