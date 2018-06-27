@@ -9,6 +9,10 @@ header, nav, footer, section, article, div {
   box-sizing: border-box;
 }
 
+.col-6 {
+width: 50%;
+}
+
 /*
  *
  * Header
@@ -28,21 +32,26 @@ header, nav, footer, section, article, div {
   margin-right: auto;
 }
 
+.top_pic {
+  padding-left: 50px;
+  padding-top: 20px;
+}
+
 .header_img {
   height: 120px;
   margin-right: 2em;
   /*vertical-align: top;*/
-  display: block;
-
   margin-top: 12px;
 }
 
 .header_title {
   font-weight: 300;
   font-size: 3em;
-  margin: 0.75em 0.25em;
-  display: inline-block;
   color: #212121;
+  padding-right: 30px;
+  padding-bottom: 15px;
+  width: 50%;
+  text-align: right;
 }
 
 .header_sub_title{
