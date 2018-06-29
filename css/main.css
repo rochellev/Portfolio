@@ -9,6 +9,18 @@ header, nav, footer, section, article, div {
   box-sizing: border-box;
 }
 
+
+/* 
+#666903
+3F6915
+9D7582
+BF7E5C
+FCB656
+*/
+.background {
+  background-color: #737619;
+}
+
 /* standard widths for columns*/
 .col-1 {width: 8.33%;}
 .col-2 {width: 16.66%;}
